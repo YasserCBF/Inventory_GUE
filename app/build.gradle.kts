@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.invetario_gue_lp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.invetario_gue_lp"

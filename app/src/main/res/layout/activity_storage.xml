@@ -53,7 +53,7 @@
             android:padding="16dp"
             android:layout_marginBottom="8dp"
             android:backgroundTint="#FFFFFF"
-            android:cornerRadius="8dp"/>
+            />
 
         <EditText
             android:id="@+id/marca_edittext"
@@ -65,7 +65,7 @@
             android:padding="16dp"
             android:layout_marginBottom="8dp"
             android:backgroundTint="#FFFFFF"
-            android:cornerRadius="8dp"/>
+          />
 
         <EditText
             android:id="@+id/cantidad_edittext"
@@ -76,7 +76,7 @@
             android:background="#FFFFFF"
             android:padding="16dp"
             android:backgroundTint="#FFFFFF"
-            android:cornerRadius="8dp"/>
+         />
     </LinearLayout>
 
     <!-- Pie: Botón Guardar -->
@@ -91,6 +91,6 @@
         android:padding="16dp"
         android:layout_margin="16dp"
         android:backgroundTint="#4CAF50"
-        android:cornerRadius="8dp"/>
+       />
 
 </LinearLayout>

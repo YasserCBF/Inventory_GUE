@@ -7,8 +7,6 @@
     android:gravity="center"
     android:padding="16dp">
 
-    <!-- Logo -->
-    <!-- Título -->
     <ImageView
         android:id="@+id/logo"
         android:layout_width="116dp"
@@ -27,7 +25,7 @@
         android:textStyle="bold"
         android:layout_marginBottom="8dp"/>
 
-    <!-- Subtítulo -->
+
     <TextView
         android:id="@+id/subtitle"
         android:layout_width="wrap_content"
@@ -37,7 +35,6 @@
         android:textSize="16sp"
         android:layout_marginBottom="32dp"/>
 
-    <!-- Botón Iniciar -->
     <Button
         android:id="@+id/iniciar_button"
         android:layout_width="match_parent"
@@ -49,6 +46,9 @@
         android:padding="16dp"
         android:layout_marginHorizontal="16dp"
         android:backgroundTint="#4CAF50"
-        android:cornerRadius="8dp"/>
+       />
+
+
+
 
 </LinearLayout>
